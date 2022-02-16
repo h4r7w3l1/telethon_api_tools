@@ -1,0 +1,10 @@
+[App]
+api_id = 111111
+api_hash = 1111111111111111111111111111
+bot_api  = 1111111:AAAg111111111111111
+
+[Resend]
+receiver_id = 1212313
+watch_group = "name_of_group"
+watch_id = Null 
+pattern = ""
